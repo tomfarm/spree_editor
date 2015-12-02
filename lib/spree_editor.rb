@@ -1,6 +1,5 @@
 require 'ckeditor'
 require 'coffee_script'
-require 'sass/rails'
 require 'spree_core'
 require 'spree_editor/version'
 require 'spree_editor/engine'
